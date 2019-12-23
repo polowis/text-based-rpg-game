@@ -1,0 +1,9 @@
+Equipment system
+change drop rate of items dynamically
+change quest name and quest requirement dynamically
+added type of items
+added dungeon map
+player need to go specific location on the map to use some feature instead of choosing
+from the menu
+clean code
+skill level

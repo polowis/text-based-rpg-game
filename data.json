@@ -1,0 +1,265 @@
+
+{
+    "mobs": [{
+        "name": "Leviam",
+        "common": "Evil Dragon Wing",
+        "uncommon": "Evil Dragon Spear",
+        "rare": "Struggler",
+        "superrare": "Leviam",
+        "class": "Dragon",
+        "min": 250,
+        "max": 350
+        },
+        {
+            "name": "Eisen",
+            "common": "Old water fragment",
+            "uncommon": "Ice dragon claw",
+            "rare": "Rain of ice dragon",
+            "superrare": "Eisen",
+            "min": 255,
+            "max": 310
+
+        },
+        {
+            "name": "Altern",
+            "common": "Dragon bone",
+            "uncommon": "Old earth fragment",
+            "rare": "Dragon eyes",
+            "superrare": "Altern",
+            "min": 280,
+            "max": 335
+        },
+        {
+            "name": "Sianas",
+            "common": "Dark crystal",
+            "uncommon": "Fancy decoration",
+            "rare": "Deep purple cloth",
+            "superrare": "Ambition",
+            "min": 120,
+            "max": 150
+        },
+        {
+            "name": "Niapa",
+            "common": "Magic scroll",
+            "uncommon": "Soft horn",
+            "rare": "Dark book",
+            "superrare": "Niapa",
+            "min": 170,
+            "max": 200
+        },
+        {
+            "name": "Celawinos",
+            "common": "Blue feather",
+            "uncommon": "Celawinos claw",
+            "rare": "Azoth",
+            "superrare": "Celawinos"
+        },
+        {
+            "name": "Goblin",
+            "common": "Pickaxe",
+            "uncommon": "Broken helmet",
+            "rare": "Goblin fragment",
+            "superrare": "Magic jar",
+            "min": 7,
+            "max": 15
+        },
+        {
+            "name": "Chako",
+            "common": "Black fragement",
+            "uncommon": "Charred stone",
+            "rare": "Red horn",
+            "superrare": "Ripped hat",
+            "min": 5,
+            "max": 13
+        },
+        {
+            "name": "Mega",
+            "common": "Green leaf",
+            "uncommon": "Medical herb",
+            "rare": "Spirit plume",
+            "superrare": "Strong spirit",
+            "min": 70,
+            "max": 120
+
+        },
+        {
+            "name": "Kijimu",
+            "common": "Flower nectar",
+            "uncommon": "Cule wood",
+            "rare": "Kijimu splinter",
+            "superrare": "Plant seed",
+            "min": 20,
+            "max": 26
+        },
+        {
+            "name": "Dammar",
+            "common": "Short white horn",
+            "uncommon": "Sharp tail",
+            "rare": "Eventail",
+            "superrare": "Orichalum",
+            "min": 20,
+            "max": 26
+        },
+        {
+            "name": "Chiro",
+            "common": "Bat wing",
+            "uncommon": "Bat fang",
+            "rare": "Sharp teeth",
+            "superrare": "Hot rockshard"
+
+        }
+
+    ],
+    "equipment":[
+        {
+            "name": "Struggler",
+            "magic": 5,
+            "resistance": 10,
+            "defense": 22,
+            "attack": 3,
+            "price": 10000
+        },
+        {
+            "name": "Ambition",
+            "magic": 15,
+            "attack": 10,
+            "defense": 2,
+            "price": 3000
+        }
+    ],
+    "collectibles": [
+        {
+            "name": "Magic scroll",
+            "price": 250,
+            "type": "item"
+        },
+        {
+            "name": "Black fragment",
+            "price": 7,
+            "type": "item"
+        },
+        {
+            "name": "Charred stone",
+            "price": 15,
+            "type": "item"
+        },
+        {
+            "name": "Red horn",
+            "price": 25,
+            "type": "item"
+        },
+        {
+            "name": "Ripped hat",
+            "price": 27,
+            "type": "item"
+        },
+        {
+            "name": "Pickaxe",
+            "price": 8,
+            "type": "item"
+        },
+        {
+            "name": "Broken helmet",
+            "price": 10,
+            "type": "item"
+        },
+        {
+            "name": "Goblin fragment",
+            "price": 15,
+            "type": "item"
+        },
+        {
+            "name": "Magic jar",
+            "price": 20,
+            "type": "item"
+        },
+        {
+            "name": "Potions",
+            "price": 10,
+            "type": "item"
+        },
+        {
+            "name": "Short white horn",
+            "price": 40,
+            "type": "item"
+        },
+        {
+            "name": "Sharp tail",
+            "price": 70,
+            "type": "item"
+        },
+        {
+            "name": "Orichalum",
+            "price": 100,
+            "type": "item"
+        },
+        {
+            "name": "Green leaf",
+            "price": 80,
+            "type": "item"
+        },
+        {
+            "name": "Plant seed",
+            "price": 20,
+            "type": "item"
+        },
+        {
+            "name": "Kijimu splinter",
+            "price": 45,
+            "type": "item"
+        },
+        {
+            "name": "Milk",
+            "price": 5,
+            "type": "item"
+        },
+        {
+            "name": "Egg",
+            "price": 6,
+            "type": "item"
+        }
+],
+    "shop": [{
+        "map": 1,
+        "item": ["Potions", "Milk", "Egg"]
+    },
+    {
+        "map": 2,
+        "item": ["Potions", "Milk", "Egg", "Pickaxe"]
+    },
+    {
+        "map": 3,
+        "item": ["Potions", "Milk", "Egg", "Pickaxe"]
+    }
+],  
+    "map":[{
+            "mapLevel": 1,
+            "grid": [[0, 0, 0, 0, 0],
+                    [0, 1, 1, 1, 0],
+                    [0, 1, 1, 1, 0],
+                    [0, 1, 1, 3, 0],
+                    [0, 0, 0, 0, 0]]
+        
+    },{
+        "mapLevel": 2,
+        "grid": [[0, 0, 0, 0, 0, 0],
+                [0, 4, 1, 1, 1, 0],
+                [0, 1, 0, 0, 1, 0],
+                [0, 1, 0, 0, 3, 0],
+                [0, 0, 0, 0, 0, 0]
+
+            ]
+    },
+    {
+        "mapLevel": 3,
+        "grid": [[0, 0, 0, 0, 0, 0],
+                [0, 4, 1, 1, 1, 0],
+                [0, 1, 0, 1, 1, 0],
+                [0, 1, 0, 1, 1, 0],
+                [0, 0, 0, 0, 0, 0]
+            ]
+    }
+]
+
+    
+}

@@ -1,0 +1,25 @@
+{
+    "1":[
+    {
+        "name": "Zalm plains",
+        "common": "Goblin",
+        "uncommon": "Chako",
+        "rare": "Mega",
+        "boss": "Sianas"
+    }
+],
+    "2":[{
+        "name": "Orion river",
+        "common": "Kijimu",
+        "uncommon": "Dammar",
+        "rare": "Nommar",
+        "boss": "Altern"
+    }],
+    "3": [{
+        "name": "Cave of wind",
+        "common": "Ent",
+        "uncommon": "Sidazt",
+        "rare": "Yarde",
+        "boss": "Leviam"
+    }]
+}
