@@ -10,10 +10,10 @@ $ python3 rpg.py
 or
 
 ```bash
-$python rpg.py
+$ python rpg.py
 ```
 or 
 
 ```bash
-$py rpg.py
+$ py rpg.py
 ```
